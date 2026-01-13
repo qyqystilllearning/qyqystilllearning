@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=M.%20Rizqy%20Hidayat&fontSize=80&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=M.%20Rizqy%20Hidayat&fontSize=50&animation=fadeIn" alt="Header" />
 </div>
 
 ### <div align="center">👋 I'm an Informatics Student</div>
