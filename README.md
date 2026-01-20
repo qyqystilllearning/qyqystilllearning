@@ -41,9 +41,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qyqystilllearning&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qyqystilllearning&layout=compact&theme=radical&langs_count=6" height="180" alt="languages graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qyqystilllearning&theme=radical" alt="streak stats" />
 </div>
 
 <div align="center">
